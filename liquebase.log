@@ -1,0 +1,41 @@
+abr. 04, 2025 12:35:24 PM liquibase.database
+INFO: Set default schema name to public
+abr. 04, 2025 12:35:24 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-1.sql
+abr. 04, 2025 12:35:24 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-2.sql
+abr. 04, 2025 12:35:24 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-3.sql
+abr. 04, 2025 12:35:24 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-4.sql
+abr. 04, 2025 12:35:24 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-5.sql
+abr. 04, 2025 12:35:24 PM liquibase.changelog
+INFO: Reading from public.databasechangelog
+Database is up to date, no changesets to execute
+abr. 04, 2025 12:35:24 PM liquibase.changelog
+INFO: Reading from public.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+abr. 04, 2025 12:35:24 PM liquibase.util
+INFO: UPDATE SUMMARY
+abr. 04, 2025 12:35:24 PM liquibase.util
+INFO: Run:                          0
+abr. 04, 2025 12:35:24 PM liquibase.util
+INFO: Previously run:               5
+abr. 04, 2025 12:35:24 PM liquibase.util
+INFO: Filtered out:                 0
+abr. 04, 2025 12:35:24 PM liquibase.util
+INFO: -------------------------------
+abr. 04, 2025 12:35:24 PM liquibase.util
+INFO: Total change sets:            5
+abr. 04, 2025 12:35:24 PM liquibase.util
+INFO: Update summary generated
+abr. 04, 2025 12:35:24 PM liquibase.command
+INFO: Command execution complete
